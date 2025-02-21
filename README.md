@@ -13,6 +13,8 @@ Model Evaluation: Assessed performance using accuracy, precision-recall curves, 
 
 Data Visualization: Generated heatmaps and feature importance plots for insights into demand patterns.
 
+Use Group8_FinalProject_BikeSharing Combined.ipynb as final combined code block. 
+
 # Install & Run Model
 git clone https://github.com/yourusername/bike-rental-prediction.git  
 cd bike-rental-prediction  
